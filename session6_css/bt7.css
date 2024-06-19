@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: bisque;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    float: left;
+    padding: 20px;
+}
+.one, .two, .three, .four{
+    background-color: orange;
+    padding: 20px;
+    margin: 20px;
+}
+.one{
+    width: 30%;
+}
+.two{
+    width: 100%;
+}
+.three{
+    width: 90%;
+}
+.four{
+    width: 10%;
+}
